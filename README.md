@@ -13,7 +13,8 @@ Mi objetivo es transformar datos en información útil y visualmente clara para 
 - 🎯 Enfocado en profundizar mis habilidades prácticas en análisis de datos y ciencia de datos
 - 📊 Experiencia en limpieza, análisis exploratorio, inferencia estadística, machine learning, big data y visualización de datos  
 - 🧩 Interés en modelos predictivos, storytelling con datos y automatización n8n  
-- 🚀 Hobbie Fact soy DJ y proximamente espero aprender producción musical.  
+- 🚀 Hobbie Fact soy DJ y proximamente espero aprender producción musical.
+- 🏋️‍♀️ Gymrat
 
 ---
 
