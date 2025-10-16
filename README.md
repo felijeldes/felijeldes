@@ -55,8 +55,6 @@ Mi objetivo es transformar datos en información útil y visualmente clara para 
 
 ---
 
-## 🗂️ Visual Portafolio
-
 ### ⚙️ Aplicaciones y herramientas usadas
 `Python` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Power BI` · `TensorFlow` · `GitHub`· `Keras`· `Google Colab`· `Visual Studio Code`· `Seaborn`· `Pyspark`· `Numpy`
 
