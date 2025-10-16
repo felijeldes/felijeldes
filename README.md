@@ -50,7 +50,7 @@ Mi objetivo es transformar datos en información útil y visualmente clara para 
 | ["Prueba de Hipótesis"](https://colab.research.google.com/drive/1W64GOgQtPYPmSzhY37-HJHRcBHWrMhCh) | Prueba de hipótesis para determinar si 2 grupos distintos obtienen distintas calificaciones añadiendo tutorías. | Scipy, Numpy, Pandas, Seaborn, Matplotlib |
 | ["Tasa Natalidad Países/redes neuronales"](https://colab.research.google.com/drive/1i4K_lgvU6OsiMGcr1z_2i1K4iDMUl9Ee) | Determinar qué factores de un país son influyentes en la tasa de natalidad que poseen. | Python/Google colab, Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow |
 | ["ML precios de viviendas"](https://colab.research.google.com/drive/1itL81YIZwH7etQjbmvexW-H8MzpvVdGb) | Determinar un modelo predictivo que represente la mayor exactitud de la variable dependiente y = Precio de viviendas en USD. | Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow |
-| ["Churn Servicios"]([https://colab.research.google.com/drive/1kT9tvCuRl_CNOYDJgn_E4IhHWF48Fo-Q) | Determinar mediante características de un cliente si contratará un servicio| Pandas, Sklearn |
+| ["Churn Servicios"](https://colab.research.google.com/drive/1kT9tvCuRl_CNOYDJgn_E4IhHWF48Fo-Q) | Determinar mediante características de un cliente si contratará un servicio| Pandas, Sklearn |
 
 > 💡 *Próximamente agregaré dashboards interactivos y proyectos más visuales utilizando Power BI y Tableau :)*
 
