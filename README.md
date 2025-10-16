@@ -10,9 +10,9 @@ Mi objetivo es transformar datos en información útil y visualmente clara para 
 
 ## 🧠 Sobre mí
 
-- 🎯 Enfocado en profundizar mis habilidades prácticas en análisis y machine learning  
-- 📊 Experiencia en limpieza, análisis exploratorio y visualización de datos  
-- 🧩 Interés en modelos predictivos, storytelling con datos y automatización  
+- 🎯 Enfocado en profundizar mis habilidades prácticas en análisis de datos y ciencia de datos
+- 📊 Experiencia en limpieza, análisis exploratorio, inferencia estadística, machine learning, big data y visualización de datos  
+- 🧩 Interés en modelos predictivos, storytelling con datos y automatización n8n  
 - 🚀 Hobbie Fact soy DJ y proximamente espero aprender producción musical.  
 
 ---
@@ -32,6 +32,8 @@ Mi objetivo es transformar datos en información útil y visualmente clara para 
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA%20%2F%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
 </div>
 
 
@@ -62,12 +64,7 @@ Mi objetivo es transformar datos en información útil y visualmente clara para 
 
 ## 📬 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)  
-- 🧠 [GitHub](https://github.com/TU-USUARIO)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-andres-jeldes-perez/)  
+- 🧠 [GitHub](https://github.com/felijeldes)  
 - ✉️ **Correo:** felijeldes@gmail.com 
 
----
-
-<div align="center">
-  <sub>✨ Portafolio minimalista creado con ❤️ y datos ✨</sub>
-</div>
